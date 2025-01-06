@@ -1,5 +1,4 @@
-# Avaliação Unity Instituro Eldorado
-Avaliação Unity Instituro Eldorado
+# First-Person Shotter (FPS)
 
 - Criar um ambiente indoor simples na Unity 3D, com no mínimo 4 salas, 3 corredores e 8 
 obstáculos. A navegação deve ser feita utilizando mouse e teclado e a visualização deve 
