@@ -8,7 +8,7 @@ utilizar uma câmera em primeira pessoa, como em um jogo First-Person Shooter (F
 apontar a câmera para um dos objetos, ele deve ser identificado com algum efeito visual 
 (highlighted/outlined). Ao apertar um botão do mouse, o objeto deve ser coletado, 
 sumindo da sala.
-- Implementar um menu de inventário, que deve exibir ícones que identifiquem os itens 
+- Implementar um menu de inventário, que deve exibir ícones que identifiquem os itens  
 coletados.
 - Permitir ao usuário soltar um item que está em seu inventário, devolvendo-o para o 
 mundo.
